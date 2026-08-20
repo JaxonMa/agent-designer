@@ -8,6 +8,7 @@ A library of style guides for AI agents. Agents read the guides before building 
 
 - When a user asks for a style, offer multiple style-guide choices and let them pick; then ask detailed requirements before implementing.
 - Follow the chosen guide's restrictions and rules, combined with the target project's constraints.
+- Verify the result against the guide's conformance checklist before shipping.
 - Only `styles/graphite.md` exists so far; each new style is a new `styles/*.md` file (e.g. `styles/aero.md`).
 
 ## Adding a new style guide
