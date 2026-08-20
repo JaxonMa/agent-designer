@@ -12,4 +12,4 @@ Agent Designer is a repo of style guides for AI agents to read before they start
 
 | Style | File | Description |
 | --- | --- | --- |
-| Graphite | `graphite.md` | A general-purpose monochrome design system: gray-scale palette, sharp corners, 1px hairline borders, inverted hover states, uppercase micro-labels, paired light/dark themes. |
+| Graphite | `styles/graphite.md` | A general-purpose monochrome design system: gray-scale palette, sharp corners, 1px hairline borders, inverted hover states, uppercase micro-labels, paired light/dark themes. |

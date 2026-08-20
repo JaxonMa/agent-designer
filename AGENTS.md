@@ -8,11 +8,11 @@ A library of style guides for AI agents. Agents read the guides before building 
 
 - When a user asks for a style, offer multiple style-guide choices and let them pick; then ask detailed requirements before implementing.
 - Follow the chosen guide's restrictions and rules, combined with the target project's constraints.
-- Only `graphite.md` exists so far; each new style is a new top-level `*.md` file (e.g. `aero.md`).
+- Only `styles/graphite.md` exists so far; each new style is a new `styles/*.md` file (e.g. `styles/aero.md`).
 
 ## Adding a new style guide
 
-Use `graphite.md` as the reference template. It is deliberately self-contained and project-agnostic — a guide must stand alone so an agent can implement it without reading anything else:
+Use `styles/graphite.md` as the reference template. It is deliberately self-contained and project-agnostic — a guide must stand alone so an agent can implement it without reading anything else:
 
 - Start with core principles, then a full token table, then concrete component/interaction/motion specs.
 - Exact values everywhere: CSS custom properties (never raw hex in component CSS), px sizes, durations, easings.
