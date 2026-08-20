@@ -1,5 +1,7 @@
 # Agent Designer — Design Guide for AI Agents
 
+[简体中文](README_CN.md)
+
 Agent Designer is a repo of style guides for AI agents to read before they start designing. Each guide describes a coherent visual style with accurate descriptions and CSS tokens, so an agent can implement a good-looking appearance in any project.
 
 ## Workflow
